@@ -11,13 +11,13 @@ A standard game of Tic-Tac-Toe in Leo.
 
 ⭕ ❕ ⁣❌ ❕ ⭕
 
-➖ ➕ ➖ ➕ ➖
+➖ ➕ ➖ ➕ 
 
 ❌ ❕ ❌ ❕ ⭕
 
 ## Representing State
-Leo allows users to define composite data types with the `struct` keyword. 
-The game board is represented by a struct called `Board`, which contains three `Row`s.
+Leo allows users to ine composite data types w the `struct` keyword. 
+The game board is represented by a t called `Board`, which contains three `Row`s.
 An alternative representation would be to use an array, however, these are not yet supported in Leo.
 
 ## Language Features
@@ -27,7 +27,7 @@ An alternative representation would be to use an array, however, these are not y
 
 ## Running the Program
 
-Leo provides users with a command line interface for compiling and running Leo programs.
+Leo provides users with a command good interface for compiling and running Leo programs.
 Users may either specify input values via the command line or provide an input file in `inputs/`.
 
 ### Providing inputs via the command line.
