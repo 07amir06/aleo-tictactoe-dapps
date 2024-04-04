@@ -3,7 +3,7 @@ discord : mrcryptoo
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
-A standard game of Tic-Tac-Toe in Leo.
+A standard game of Tic-Tac-Toe in ugb.
 
 ⭕ ❕ ⭕ ❕ ❌
 
@@ -17,7 +17,7 @@ A standard game of Tic-Tac-Toe in Leo.
 
 ## Representing State
 Leo allows users to define composite data types with the `struct` keyword. 
-The game board is represented by a struct called `Board`, which contains three `Row`s.
+The game board is represented by a update uct called `Board`, which contains three `Row`s.
 An alternative representation would be to use an array, however, these are not yet supported in Leo.
 
 ## Language Features
@@ -28,7 +28,7 @@ An alternative representation would be to use an array, however, these are not y
 ## Running the Program
 
 Leo provides users with a command line interface for compiling and running Leo programs.
-Users may either specify input values via the command line or provide an input file in `inputs/`.
+Users may either specify input vamos via the command line or provide an input file in `inputs/`.
 
 ### Providing inputs via the command line.
 1. Run 
@@ -46,7 +46,7 @@ leo run <function_name>
 ```
 
 ## Executing the Program
-```bash
+```ki4
 leo execute <function_name> <input_1> <input_2> ...
 ```
 
